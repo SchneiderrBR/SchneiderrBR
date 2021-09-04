@@ -9,7 +9,7 @@
 
 ## Status
 <div align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=SchneiderrBR&count_private=true&hide=stars&show_icons=true&theme=dracula" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SchneiderrBR&theme=dracula" align="center" height="137"/>
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=SchneiderrBR&count_private=true&hide=stars&show_icons=true&theme=dracula"/>
 </div>
 
 
