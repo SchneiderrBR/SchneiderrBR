@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello world!
 
-<!--
-**SchneiderrBR/SchneiderrBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Eu sou  o Schneider 								
+<div align="center">
+🖥️ Desenvolvedor Backend <br>
+☕  Atualmente trabalhando com Java   <br>
+⚡ Entusiasta de IOT  
+</div>
 
-Here are some ideas to get you started:
+## Status
+<div align="center">
+<img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=SchneiderrBR&count_private=true&hide=stars&show_icons=true&theme=dracula" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SchneiderrBR&theme=dracula" align="center" height="170"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Principais Repositorios 
+<div align="center">
+<a href="https://github.com/LindseyBot/gateway"><img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=LindseyBot&theme=dracula&repo=gateway&show_owner=true" /></a>
+<a href="https://github.com/LindseyBot/gateway"><img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Cavaleiros-do-Xunxo&theme=dracula&repo=mazgo-hardware&show_owner=true" /></a>
+</div>
