@@ -16,5 +16,5 @@
 ## Principais Repositorios 
 <div align="center">
 <a href="https://github.com/LindseyBot/gateway"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LindseyBot&theme=dracula&repo=gateway&show_owner=true" /></a>
-<a href="https://github.com/LindseyBot/gateway"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cavaleiros-do-Xunxo&theme=dracula&repo=mazgo-hardware&show_owner=true" /></a>
+<a href="https://github.com/Cavaleiros-do-Xunxo/mazgo-hardware"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cavaleiros-do-Xunxo&theme=dracula&repo=mazgo-hardware&show_owner=true" /></a>
 </div>
